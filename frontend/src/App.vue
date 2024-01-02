@@ -3,7 +3,6 @@
   <RouterView/>
   <Footer/>
 </template>
-
 <script>
 
 import Header from "@/components/Header.vue";
